@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I’m Dmitry Zhuravlev 👋
 
 <!--
 **Zhuravlev-DP/Zhuravlev-DP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📫To contact me: 
+---
+- 📞 Tel: +7(922) 115-45-31
+- ⌨ Telegram: @zhuravlev_dp
+- 📧 Email: zhyravlev_dmitry@mail.ru
