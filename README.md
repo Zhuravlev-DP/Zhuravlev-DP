@@ -1,6 +1,6 @@
-### Hi, I’m Dmitry Zhuravlev 👋
+### Hi, my name is Dmitry, I'm a Python Backend Developer 👋
 
-- 🌱 I’m currently learning Python, back-end, web
+- 🌱 I’m currently learning Python and backend development
 - 👨‍🎓 I’m studying at Yandex Practicum
 - 🌍 I speak Russian(native), English (B1)
 
