@@ -1,7 +1,9 @@
-### Hi, my name is Dmitry, I'm a Python Backend Developer 👋
+### Hi there, my name is Dmitry, I'm a Python Backend Developer 👋
 
+- 🧑‍💼 I am actively looking for a job
 - 🌱 I’m currently learning Python and backend development
-- 👨‍🎓 I’m studying at Yandex Practicum
+- 📚 My currently technology stack: Python | Django | Django REST Framework | SQLite | PostgreSQL | Linux | Docker | Ngnix | Yandex.Cloud |
+- 👨‍🎓 I graduated from Yandex Practicum
 - 🌍 I speak Russian(native), English (B1)
 
 📫To contact me: 
